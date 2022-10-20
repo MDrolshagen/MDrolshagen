@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MDrolshagen
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Game Development
+- 🌱 I’m currently learning C# and SQL
+
 
 <!---
 MDrolshagen/MDrolshagen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
