@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MDrolshagen
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning C# and SQL
+- 🌱 I’m currently learning about MQTT and Tasmota
 
 
 <!---
